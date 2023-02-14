@@ -1,5 +1,7 @@
 ReadMe
 
+For a better experience, see this is a PC :p -- Para una mejor experiencia, mira esto es una PC :p
+
 ![image](https://user-images.githubusercontent.com/124944675/218623926-b6b0a0f6-8fb3-40d1-b987-8163d7b4702a.png)
 
                                                                                                                                            
