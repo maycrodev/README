@@ -1,6 +1,6 @@
 # ReadMe.
-# Mi primer repositorio
-Este es el primer repositorio para GitHub que hago, espero les guste.
+# This is My Firts repository
+ -- This is the first repository for GitHub that I do, I hope you like it.
 
 ## ¿Cómo me llamo?
 Me llamo (insertar nombre).
