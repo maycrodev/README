@@ -29,8 +29,6 @@ I've studied in the school [Colegio San Bernardo de Tarija](https://cosabe.edu.b
 
 ## What programming languages do I currently know??
 -- Currently I know a lot about the LUA programming language.
-![image](https://user-images.githubusercontent.com/124944675/218624121-20a32a8a-8f87-4eb3-8102-26fac8d6ce62.png)
-
 -- I really like this language because it is a simple, flexible and easy to learn programming language with a focus on   extensive programming. Also, it is compatible with many platforms and applications, which makes it ideal for developing online games and applications.
 
 That everything... for now :), stay tuned. BYE!!
@@ -38,4 +36,3 @@ That everything... for now :), stay tuned. BYE!!
 
 ![image](https://user-images.githubusercontent.com/124944675/218623854-1d27cc42-3dd5-4090-9816-bff3c4ce1796.png)
 
-.
