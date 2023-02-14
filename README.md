@@ -1,4 +1,14 @@
 # ReadMe.
+
+
+|\  \|\  \|\  ___ \ |\  \     |\  \     |\   __  \        |\  \     |\  \|\   __  \|\   __  \|\  \     |\   ___ \         ___|\   ___ \    
+\ \  \\\  \ \   __/|\ \  \    \ \  \    \ \  \|\  \       \ \  \    \ \  \ \  \|\  \ \  \|\  \ \  \    \ \  \_|\ \       |\__\ \  \_|\ \   
+ \ \   __  \ \  \_|/_\ \  \    \ \  \    \ \  \\\  \       \ \  \  __\ \  \ \  \\\  \ \   _  _\ \  \    \ \  \ \\ \      \|__|\ \  \ \\ \  
+  \ \  \ \  \ \  \_|\ \ \  \____\ \  \____\ \  \\\  \       \ \  \|\__\_\  \ \  \\\  \ \  \\  \\ \  \____\ \  \_\\ \         __\ \  \_\\ \ 
+   \ \__\ \__\ \_______\ \_______\ \_______\ \_______\       \ \____________\ \_______\ \__\\ _\\ \_______\ \_______\       |\__\ \_______\
+    \|__|\|__|\|_______|\|_______|\|_______|\|_______|        \|____________|\|_______|\|__|\|__|\|_______|\|_______|       \|__|\|_______|
+                                                                                                                                           
+                                                                                                                                           
 # This is My Firts repository
  -- This is the first repository for GitHub that I do, I hope you like it.
 
@@ -9,9 +19,9 @@ My name is Juan José, u can call me whatever u want :D
 Estudié en el [Colegio San Bernardo de Tarija](https://cosabe.edu.bo/).
 
 ## ¿Cuáles son mis hobbies?
-* (Insertar hobbie)
-* (Insertar hobbie)
-* (Insertar hobbie)
+* -- I love to play the piano
+* -- I really like to play CoD 
+* -- And obviously, i love program
 
 ## Mis logros en el colegio
 * (Insertar logro)
