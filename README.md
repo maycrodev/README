@@ -1,50 +1,50 @@
 ReadMe.
 
 
-
-
-╭╮╱╭┳━━━┳╮╱╱╭╮╱╱╭━━━╮╭╮╭╮╭┳━━━┳━━━┳╮╱╱╭━━━╮
-┃┃╱┃┃╭━━┫┃╱╱┃┃╱╱┃╭━╮┃┃┃┃┃┃┃╭━╮┃╭━╮┃┃╱╱╰╮╭╮┃
-┃╰━╯┃╰━━┫┃╱╱┃┃╱╱┃┃╱┃┃┃┃┃┃┃┃┃╱┃┃╰━╯┃┃╱╱╱┃┃┃┃
-┃╭━╮┃╭━━┫┃╱╭┫┃╱╭┫┃╱┃┃┃╰╯╰╯┃┃╱┃┃╭╮╭┫┃╱╭╮┃┃┃┃
-┃┃╱┃┃╰━━┫╰━╯┃╰━╯┃╰━╯┃╰╮╭╮╭┫╰━╯┃┃┃╰┫╰━╯┣╯╰╯┃
-╰╯╱╰┻━━━┻━━━┻━━━┻━━━╯╱╰╯╰╯╰━━━┻╯╰━┻━━━┻━━━╯  
-                                                                                        
-                                                                                         
+╭╮╱╭┳━━━┳╮╱╱╭╮╱╱╭━━━╮╱╱╱╱╭╮╭╮╭┳━━━┳━━━┳╮╱╱╭━━━╮╭╮╱╱╱╱╱╭━━━╮
+┃┃╱┃┃╭━━┫┃╱╱┃┃╱╱┃╭━╮┃╱╱╱╱┃┃┃┃┃┃╭━╮┃╭━╮┃┃╱╱╰╮╭╮┃┃┃╱╱╱╱╱╰╮╭╮┃
+┃╰━╯┃╰━━┫┃╱╱┃┃╱╱┃┃╱┃┃╱╱╱╱┃┃┃┃┃┃┃╱┃┃╰━╯┃┃╱╱╱┃┃┃┃┃┃╱╱╱╱╭╮┃┃┃┃
+┃╭━╮┃╭━━┫┃╱╭┫┃╱╭┫┃╱┃┃╭━━╮┃╰╯╰╯┃┃╱┃┃╭╮╭┫┃╱╭╮┃┃┃┃╰╯╭━━╮╰╯┃┃┃┃
+┃┃╱┃┃╰━━┫╰━╯┃╰━╯┃╰━╯┃╰━━╯╰╮╭╮╭┫╰━╯┃┃┃╰┫╰━╯┣╯╰╯┃╭╮╰━━╯╭┳╯╰╯┃
+╰╯╱╰┻━━━┻━━━┻━━━┻━━━╯╱╱╱╱╱╰╯╰╯╰━━━┻╯╰━┻━━━┻━━━╯╰╯╱╱╱╱╰┻━━━╯
                                                                                                                                            
                                                                                                                                            
-# This is My Firts repository
+# This is My Firts ℝ𝕖𝕡𝕠𝕤𝕚𝕥𝕠𝕣𝕪
  -- This is the first repository for GitHub that I do, I hope you like it.
 
-## ¿What is my name?
+## What is my name?
 My name is Juan José, u can call me whatever u want :D
 
-## ¿In what school i studied?
-Estudié en el [Colegio San Bernardo de Tarija](https://cosabe.edu.bo/).
+## In what school i studied?
+I've studied in the school [Colegio San Bernardo de Tarija](https://cosabe.edu.bo/). Here's a link to their web page. ˙ ͜ʟ˙
 
-## ¿Cuáles son mis hobbies?
-* -- I love to play the piano
+## What are my hobbies?
+* -- I love to play the piano  - 🎹(˘▾˘.)
 * -- I really like to play CoD 
-* -- And obviously, i love program
+* -- And obviously, i love program - 🐍 (づ￣ ³￣)づ
 
-## Mis logros en el colegio
-* (Insertar logro)
-* (Insertar logro)
-* (Insertar logro)
+## School Achivements
+* - I've learned how to speak english 🇻🇬
+* - I've got good grades :p
 
-## ¿Por qué estudio ingeniería en sistemas?
-(Insertar texto)
+## Why study Systems Engineering?
+-- I study systems engineering to learn how to design, implement and maintain efficient and effective systems in organizations, using information and communication technologies. --  ᕦ(ò_óˇ)ᕤ
 
-## ¿Cuál sería el primer producto que crearía cuando salga de la universidad?
-(Insertar texto)
+## What would be the first product you would create when you leave university?
+-- I'll probably focus on creating servers or artificial intelligence, it's something I can't answer right now. --  (ꗞ _ ꗞ)
 
-## ¿Qué lenguajes de programación conozco actualmente?
-![Lenguaje](https://img.shields.io/badge/Lenguaje-Lua-blue.svg)
+## What programming languages do I currently know??
+-- Currently I know a lot about the LUA programming language.
 
-(Insertar texto)
+-- I really like this language because it is a simple, flexible and easy to learn programming language with a focus on   extensive programming. Also, it is compatible with many platforms and applications, which makes it ideal for developing online games and applications.
 
-# Créditos & agradecimientos
-[![Instagram](https://img.shields.io/badge/IG-@arturopacocruz-blue.svg?style=flat)](https://www.instagram.com/arturopacocruz)
+That everything... for now :), stay tuned. BYE!!
 
-Creditos a Arturo Paco Cruz, le mide la verga 2 metros.
-Gracias por todo.
+╭━━━━┳╮╱╭┳━━━╮╱╱╱╱╭━━━┳━╮╱╭┳━━━╮
+┃╭╮╭╮┃┃╱┃┃╭━━╯╱╱╱╱┃╭━━┫┃╰╮┃┣╮╭╮┃
+╰╯┃┃╰┫╰━╯┃╰━━╮╱╱╱╱┃╰━━┫╭╮╰╯┃┃┃┃┃
+╱╱┃┃╱┃╭━╮┃╭━━╯╭━━╮┃╭━━┫┃╰╮┃┃┃┃┃┃
+╱╱┃┃╱┃┃╱┃┃╰━━╮╰━━╯┃╰━━┫┃╱┃┃┣╯╰╯┃
+╱╱╰╯╱╰╯╱╰┻━━━╯╱╱╱╱╰━━━┻╯╱╰━┻━━━╯
+
+.
