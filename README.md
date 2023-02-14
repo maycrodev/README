@@ -1,6 +1,6 @@
 ReadMe
 
-
+For a better experience, see this is a PC :p -- Para una mejor experiencia, mira esto es una PC :p
 
 ╭╮╱╭┳━━━┳╮╱╱╭╮╱╱╭━━━╮╭╮╭╮╭┳━━━┳━━━┳╮╱╱╭━━━╮╭╮
 ┃┃╱┃┃╭━━┫┃╱╱┃┃╱╱┃╭━╮┃┃┃┃┃┃┃╭━╮┃╭━╮┃┃╱╱╰╮╭╮┃┃┃
@@ -17,7 +17,7 @@ ReadMe
 My name is Juan José, u can call me whatever u want :D
 
 ## In what school i studied?
-I've studied in the school [Colegio San Bernardo de Tarija](https://cosabe.edu.bo/). Here's a link to their web page. ˙ ͜ʟ˙
+I've studied in the school [Colegio San Bernardo de Tarija](https://cosabe.edu.bo/). Here's a link to their web page. -- ˙ ͜ʟ˙
 
 ## What are my hobbies?
 * -- I love to play the piano  - 🎹(˘▾˘.)
