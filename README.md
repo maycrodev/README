@@ -2,10 +2,10 @@
 # This is My Firts repository
  -- This is the first repository for GitHub that I do, I hope you like it.
 
-## ¿Cómo me llamo?
-Me llamo (insertar nombre).
+## ¿What is my name?
+My name is Juan José, u can call me whatever u want :D
 
-## ¿En qué colegio estudié?
+## ¿In what school i studied?
 Estudié en el [Colegio San Bernardo de Tarija](https://cosabe.edu.bo/).
 
 ## ¿Cuáles son mis hobbies?
