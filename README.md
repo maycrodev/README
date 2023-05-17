@@ -1,6 +1,6 @@
 ReadMe
 
-For a better experience, see this is a PC :p -- Para una mejor experiencia, mira esto es una PC :p
+For a better experience, see this is a PC
 
 ![image](https://user-images.githubusercontent.com/124944675/218623926-b6b0a0f6-8fb3-40d1-b987-8163d7b4702a.png)
 
@@ -17,7 +17,7 @@ I've studied in the school [Colegio San Bernardo de Tarija](https://cosabe.edu.b
 ## What are my hobbies?
 * -- I love to play the piano  - 🎹(˘▾˘.)
 * -- I really like to play CoD 
-* -- And obviously, i love program - 🐍 (づ￣ ³￣)づ
+* -- And obviously, i love program - (🐍;🌙)
 
 ## School Achivements
 * - I've learned how to speak english 🇻🇬
@@ -31,7 +31,7 @@ I've studied in the school [Colegio San Bernardo de Tarija](https://cosabe.edu.b
 
 ## What programming languages do I currently know??
 -- Currently I know a lot about the LUA programming language.
--- I really like this language because it is a simple, flexible and easy to learn programming language with a focus on   extensive programming. Also, it is compatible with many platforms and applications, which makes it ideal for developing online games and applications.
+-- I really like this language because it is a simple, flexible and easy to learn programming language with a focus on extensive programming. Also, it is compatible with many platforms and applications, which makes it ideal for developing online games and applications.
 
 That everything... for now :), stay tuned. BYE!!
 
