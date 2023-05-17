@@ -20,6 +20,9 @@ I've studied in the school [Colegio San Bernardo de Tarija](https://cosabe.edu.b
 * - I've learned how to speak english 🇻🇬
 * - I've got good grades :p
 
+## Code Achivements
+* - I have created many games using the Roblox Studio engine - (none of them are complete at the moment)
+
 ## Why study Systems Engineering?
 -- I study systems engineering to learn how to design, implement and maintain efficient and effective systems in organizations, using information and communication technologies. --  ᕦ(ò_óˇ)ᕤ
 
